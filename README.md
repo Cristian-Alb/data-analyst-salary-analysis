@@ -33,8 +33,11 @@ The analysis includes several key visualizations:
 - **Correlation Matrix**: A heatmap displaying correlations between salary and other factors such as company rating, min/max salary, etc.
 
 
-## 💼 About the Author
-This project was developed by Cristian Alb, a Data Analyst focused on data transformation, visualization, and business intelligence.
+## 💼 About me
+
+This project was developed by [Cristian Alb](https://github.com/Cristian-Alb), a Data Analyst focused on data transformation, visualization, and business intelligence.
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/crisalbarr/) for any questions or feedback.
 
 
 ## ✨ Feel free to reach out for any questions or feedback!
