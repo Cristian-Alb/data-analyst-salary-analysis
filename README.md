@@ -53,7 +53,7 @@ Now, you have a local copy of the repository!
 
 ## 💼 About me
 
-This project was developed by [Cristian Alb](https://github.com/Cristian-Alb), a Data Analyst focused on data transformation, visualization, and business intelligence.
+This project was developed by [Cristian-Alb](https://github.com/Cristian-Alb), a Data Analyst focused on data transformation, visualization, and business intelligence.
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/crisalbarr/) for any questions or feedback.
 
