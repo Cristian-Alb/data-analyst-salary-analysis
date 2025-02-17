@@ -32,31 +32,9 @@ The analysis includes several key visualizations:
 - **Impact of "Easy Apply" on Salary**: A boxplot showing how "Easy Apply" affects salaries.
 - **Correlation Matrix**: A heatmap displaying correlations between salary and other factors such as company rating, min/max salary, etc.
 
-## 🚀 How to Run the Project Locally
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/Cristian-Alb/data-analyst-salary-analysis.git
-
-2. Install the required Python libraries:
-    
-    pip install -r requirements.txt
-
-3. Run the analysis script:
-
-    python analysis.py
-
-## 🔧 Requirements
-
-    Python 3.13
-    pandas
-    numpy
-    matplotlib
-    seaborn
 
 ## 💼 About the Author
-This project was developed by Cristian Alb, a Data Analyst focused on data transformation, visualization, and business intelligence.ç
+This project was developed by Cristian Alb, a Data Analyst focused on data transformation, visualization, and business intelligence.
 
 
 ## ✨ Feel free to reach out for any questions or feedback!
