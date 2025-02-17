@@ -19,6 +19,7 @@ To view the interactive dashboard created with Power BI, follow the link below:
 
 ## 📂 Files
 
+- `DataAnalyst.csv`: The initial dataset containing the raw job data collected from Glassdoor.
 - `data_cleaned.csv`: Cleaned and processed dataset, ready for analysis.
 - `project.ipynb`: Jupyter notebook containing data cleaning, salary calculation, and visualizations.
 - `README.md`: This file, which provides an overview of the project.
