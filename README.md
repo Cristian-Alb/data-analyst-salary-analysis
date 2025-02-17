@@ -33,6 +33,23 @@ The analysis includes several key visualizations:
 - **Impact of "Easy Apply" on Salary**: A boxplot showing how "Easy Apply" affects salaries.
 - **Correlation Matrix**: A heatmap displaying correlations between salary and other factors such as company rating, min/max salary, etc.
 
+## 🚀 How to Clone the Repository
+
+To clone this repository to your local machine, follow these steps:
+
+1. Open your terminal (Visual Studio Code or any terminal of your choice).
+2. Navigate to the directory where you want to store the project:
+
+   ```bash
+   cd <your-desired-folder-path>
+   ```
+3. Clone the repository using the following command:
+
+    ```bash
+    git clone https://github.com/Cristian-Alb/data-analyst-salary-analysis.git
+    ```
+
+Now, you have a local copy of the repository!
 
 ## 💼 About me
 
