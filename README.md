@@ -20,7 +20,7 @@ To view the interactive dashboard created with Power BI, follow the link below:
 ## 📂 Files
 
 - `data_cleaned.csv`: Cleaned and processed dataset, ready for analysis.
-- `analysis.py`: Python code for data cleaning, salary calculation, and visualizations.
+- `project.ipynb`: Jupyter notebook containing data cleaning, salary calculation, and visualizations.
 - `README.md`: This file, which provides an overview of the project.
 - `requirements.txt`: A file containing the list of dependencies required to run the project.
 
